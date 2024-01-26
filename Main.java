@@ -9,7 +9,7 @@ import org.jline.reader.History;
 
  public class Main{
     public static void main(String[]args)throws IOException{
-        ServerTerminal server=new ServerTerminal("eltech");
+        ServerTerminal server=new ServerTerminal("CLoudTech Society");
         server.shell();
     }
 
